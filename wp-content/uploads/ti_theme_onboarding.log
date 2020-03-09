@@ -1,0 +1,16 @@
+[26/Feb/2020:02:06:24] (ℹ️): WordPress Instance Info:
+[26/Feb/2020:02:06:24] (ℹ️): Home URL : http://localhost:8080/trieu
+[26/Feb/2020:02:06:24] (ℹ️): Site URL : http://localhost:8080/trieu
+[26/Feb/2020:02:06:24] (ℹ️): WordPress Version : 5.3.2
+[26/Feb/2020:02:06:24] (ℹ️): Onboarding Version : 1.7.12
+[26/Feb/2020:02:06:24] (ℹ️): Multisite : No
+[26/Feb/2020:02:06:24] (ℹ️): Server Info : Apache/2.4.33 (Win32) OpenSSL/1.0.2o PHP/5.6.36
+[26/Feb/2020:02:06:24] (ℹ️): PHP Version : 5.6.36
+[26/Feb/2020:02:06:24] (ℹ️): HTTPS : No
+[26/Feb/2020:02:06:24] (ℹ️): PHP Max Execution Time : 30
+[26/Feb/2020:02:06:24] (ℹ️): PHP Max Input Vars : 1000
+[26/Feb/2020:02:06:24] (ℹ️): Max Upload Size : 2097152
+[26/Feb/2020:02:06:24] (ℹ️): Plugins:
+[26/Feb/2020:02:06:24] (ℹ️): [PLUGIN] MetaSlider : v3.15.3 (Team Updraft)
+[26/Feb/2020:02:06:24] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.2 (Themeisle)
+[26/Feb/2020:02:06:24] (ℹ️): [PLUGIN] WPForms Lite : v1.5.8.2 (WPForms)
